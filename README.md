@@ -8,9 +8,9 @@
 当所有棋盘交点全部下满而无人连六子或以上，即为平局。
 
 ### 运行方法
-1. 启用JavaSE-10 \
-2. 下载代码至你的JAVA workspace。\
-3. 将connect6.jar添加至项目的Classpath Libraries \
+1. 启用JavaSE-10 
+2. 下载代码至你的JAVA workspace。
+3. 将connect6.jar添加至项目的Classpath Libraries 
 4. 运行TestConnect6/src/s16030021049/Board.java
 
 ### 运行预览
